@@ -1,6 +1,6 @@
 ### Olá, Pessoas! Sejam Bem vindos aqui.
 ##### Prazer meu nome é Renan Altarugio, sou formado em Adminstração de Empresas, e atualmente desenvolvendo meus conhecimentos na área de Tecnologia, estudando Desenvolvimento de Software Multiplataforma, pela Faculdade de Tecnologia de São Paulo (Fatec).
-##### Tecnologias que obteve contato até o momento, entre Linguagens de programação, Bibliotecas e Frameworks, são:
+##### Tecnologias que obteve contato até o momento, entre Linguagens de programação, Bibliotecas, Frameworks, e ferramentas de Design, são:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
