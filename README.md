@@ -1,6 +1,6 @@
 ### Olá, Pessoas! Sejam Bem vindos aqui.
-##### Prazer meu nome é Renan Altarugio, sou formado em Adminstração de Empresas, e atualmente desenvolvendo meus conhecimentos na área de Tecnologia, estudando Desenvolvimento de Software Multiplataforma, pela Faculdade de Tecnologia de São Paulo (Fatec).
-##### Tecnologias que obteve contato até o momento, entre Linguagens de programação, Bibliotecas, Frameworks, e ferramentas de Design, são:
+##### Prazer meu nome é Renan Altarugio, sou formado em Adminstração de Empresas, e atualmente estou desenvolvendo conhecimentos na área de Tecnologia, estudando Desenvolvimento de Software Multiplataforma, pela Faculdade de Tecnologia de São Paulo (Fatec), para expansão de conhecimentos e habilidades.
+##### Tecnologias que obtevi contato até o momento, entre Linguagens de programação, Bibliotecas, Frameworks, e ferramentas de Design, são:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -22,3 +22,8 @@
 <br>
 
 ![Altarugio's GitHub stats](https://github-readme-stats.vercel.app/api?username=altarugio&theme=solarized-dark&show_icons=true)
+
+<br>
+
+
+### *Portfolio* <br><br>   [![Meusite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://altarugio.tech/)
